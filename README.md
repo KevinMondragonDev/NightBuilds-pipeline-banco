@@ -2,7 +2,18 @@
 
 > Pipeline diario que extrae, limpia y carga en PostgreSQL de forma idempotente, orquestado con Airflow.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL orquestado · **Módulo del programa:** 05/04 · Pipelines
+**Estado:** 🚧 sin empezar · **Categoría:** NightBuilds · **Tipo:** ETL orquestado · **Módulo del programa:** 05/04 · Pipelines
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| `DevSandbox-` | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| **`NightBuilds-`** ← este | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **NightBuilds**: el reto está estimado en 8–10 h.
 
 ## La problemática
 

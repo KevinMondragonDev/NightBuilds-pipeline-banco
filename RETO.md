@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Pipeline diario del banco
+# 🚀 NightBuild — Pipeline diario del banco
 
-**Repositorio:** `sideproject-pipeline-banco` · **Tipo:** ETL orquestado · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 3 de esta sección
+**Repositorio:** `NightBuilds-pipeline-banco` · **Tipo:** ETL orquestado · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 3 de esta sección
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

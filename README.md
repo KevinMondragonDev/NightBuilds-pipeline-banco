@@ -1,4 +1,4 @@
-# sideproject-pipeline-banco
+# NightBuilds-pipeline-banco
 
 > Pipeline diario que extrae, limpia y carga en PostgreSQL de forma idempotente, orquestado con Airflow.
 
@@ -23,7 +23,7 @@ Los archivos de `datos/` son **sintéticos**, generados para practicar: no corre
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un NightBuild y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta

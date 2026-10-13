@@ -2,7 +2,7 @@
 
 > Pipeline diario que extrae, limpia y carga en PostgreSQL de forma idempotente, orquestado con Airflow.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL orquestado · **Módulo del programa:** 06/04 · Pipelines
+**Estado:** 🚧 sin empezar · **Tipo:** ETL orquestado · **Módulo del programa:** 05/04 · Pipelines
 
 ## La problemática
 
